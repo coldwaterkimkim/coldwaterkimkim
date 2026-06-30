@@ -16,7 +16,7 @@
 | Project | Summary | Links |
 |---|---|---|
 | OneCut | 소비와 경험 기록을 사진 중심으로 남기고, 친구/그룹 맥락과 주간 리포트로 확장하는 iOS MVP입니다. | [GitHub](https://github.com/coldwaterkimkim/onecut-ios) |
-| Doodle | 성균관대 생활권 지도 위 장소마다 짧은 글을 남기는 위치 기반 로컬 두들 MVP입니다. | [GitHub](https://github.com/coldwaterkimkim/doodle-ios-mvp) |
+| Doodle | 성균관대 생활권 지도 위 장소마다 짧은 글을 남기는 위치 기반 로컬 두들 MVP입니다. | [Latest branch](https://github.com/coldwaterkimkim/doodle-ios-mvp/tree/codex/doodle-web-v1) |
 | Scholium Pretotype | 학생들이 PDF/강의자료를 읽다 막힌 지점을 바로 설명받을 수 있는 학습 도구 프리토타입입니다. | [Live](https://scholium-pretotyping.vercel.app/) / [GitHub](https://github.com/coldwaterkimkim/scholium-pretotyping) |
 | ReadingRuler | macOS 화면 위에 커서를 따라다니는 읽기 보조 눈금자를 띄우는 메뉴바 유틸리티입니다. | [GitHub](https://github.com/coldwaterkimkim/ReadingRuler) |
 
