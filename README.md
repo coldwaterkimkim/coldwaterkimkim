@@ -6,19 +6,46 @@
 
 ## Start Here
 
-| Project | What to See | Links |
-|---|---|---|
-| Orange Postcard MVP | 온라인에서 작성한 짧은 메시지를 실제 엽서 경험으로 바꾸는 MVP. 결제의향 기반 테스트에서 6% 전환을 확인했습니다. | [Live](https://orangepostcard.vercel.app/) / [GitHub](https://github.com/coldwaterkimkim/orange-postcard-mvp) |
-| coldwaterkim.com | 레트로 개인 홈페이지와 직접 운영하는 PocketBase 기반 CMS/블로그입니다. 글, 하루 기록, 프로그램실, 방명록을 직접 관리합니다. | [Live](https://coldwaterkim.com/) / [GitHub](https://github.com/coldwaterkimkim/coldwaterkim.github.io) |
+### Orange Postcard MVP
+
+온라인에서 작성한 짧은 메시지를 실제 엽서 경험으로 바꾸는 MVP입니다. 결제의향 기반 테스트에서 **6% 전환**을 확인했습니다.
+
+- Live: https://orangepostcard.vercel.app/
+- GitHub: https://github.com/coldwaterkimkim/orange-postcard-mvp
+
+### coldwaterkim.com
+
+레트로 개인 홈페이지와 직접 운영하는 PocketBase 기반 CMS/블로그입니다. 글, 하루 기록, 프로그램실, 방명록을 직접 관리합니다.
+
+- Live: https://coldwaterkim.com/
+- GitHub: https://github.com/coldwaterkimkim/coldwaterkim.github.io
 
 ## Selected Projects
 
-| Project | Summary | Links |
-|---|---|---|
-| OneCut | 소비와 경험 기록을 사진 중심으로 남기고, 친구/그룹 맥락과 주간 리포트로 확장하는 iOS MVP입니다. | [GitHub](https://github.com/coldwaterkimkim/onecut-ios) |
-| Doodle | 성균관대 생활권 지도 위 장소마다 짧은 글을 남기는 위치 기반 로컬 두들 MVP입니다. | [Latest branch](https://github.com/coldwaterkimkim/doodle-ios-mvp/tree/codex/doodle-web-v1) |
-| Scholium Pretotype | 학생들이 PDF/강의자료를 읽다 막힌 지점을 바로 설명받을 수 있는 학습 도구 프리토타입입니다. | [Live](https://scholium-pretotyping.vercel.app/) / [GitHub](https://github.com/coldwaterkimkim/scholium-pretotyping) |
-| ReadingRuler | macOS 화면 위에 커서를 따라다니는 읽기 보조 눈금자를 띄우는 메뉴바 유틸리티입니다. | [GitHub](https://github.com/coldwaterkimkim/ReadingRuler) |
+### OneCut
+
+소비와 경험 기록을 사진 중심으로 남기고, 친구/그룹 맥락과 주간 리포트로 확장하는 iOS MVP입니다.
+
+- GitHub: https://github.com/coldwaterkimkim/onecut-ios
+
+### Doodle
+
+성균관대 생활권 지도 위 장소마다 짧은 글을 남기는 위치 기반 로컬 두들 MVP입니다.
+
+- Latest branch: https://github.com/coldwaterkimkim/doodle-ios-mvp/tree/codex/doodle-web-v1
+
+### Scholium Pretotype
+
+학생들이 PDF/강의자료를 읽다 막힌 지점을 바로 설명받을 수 있는 학습 도구 프리토타입입니다.
+
+- Live: https://scholium-pretotyping.vercel.app/
+- GitHub: https://github.com/coldwaterkimkim/scholium-pretotyping
+
+### ReadingRuler
+
+macOS 화면 위에 커서를 따라다니는 읽기 보조 눈금자를 띄우는 메뉴바 유틸리티입니다.
+
+- GitHub: https://github.com/coldwaterkimkim/ReadingRuler
 
 ## How I Work
 
